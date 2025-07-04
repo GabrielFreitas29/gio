@@ -277,3 +277,23 @@ https://vivoit.service-now.com/now/nav/ui/classic/params/target/sc_task_list.do%
 
 
 http://sv2kpgko2/FreteWeb/TimeOut.html#topo
+
+/*/*/*/*/**/*/*/*/*/*/*/*/*/*/*/**/*/*/*/*/*/*/*/*/*/
+
+CENTRO DE CUSTO: 29TN160000
+PLANEJAMENTO: LUCAS CAMANDAROBA DA SILVA
+CHAMADO: RITM0566178	
+NOTA FISCAL: GE 
+VOLUME: 5
+
+REMETENTE:
+ENDEREÇO: LOJA TOP CENTER AVENIDA PAULISTA SP | AVENIDA PAULISTA, 854 - LOJA 37 - PISO TÉRREO | SAO PAULO | SP
+CONTATO: Marco Antonio Rodrigues Da Silva 11973731688
+ 
+
+DESTINATÁRIO:
+ENDEREÇO: AV. MARCOS PENTEADO DE ULHOA RODRIGUES 1690, SÃO PAULO SP - CEP: 60050-080
+CONTATO: ROBERTO  RAMAL 0310 / 6785	
+
+
+- Enviar dados do motorista/ajudante (Nome completo, RG, CPF e Placa do veículo) para liberação de acesso ao prédio para o e-mail:
