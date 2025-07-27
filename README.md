@@ -1,3 +1,6 @@
+https://autenticaint.vivo.com.br/LoginCorp/?bmctx=D3346598D37D25323F24C459B0AA627D72F11002ACA4C6E5F0DC260DDCE7E518&contextType=external&username=string&challenge_topaz=true&password=secure_string&challenge_url=https%3A%2F%2Fautenticaint.vivo.com.br%2FLoginCorp%2F&request_id=-6234310612421414216&authn_try_count=0&locale=pt_BR&resource_url=https%253A%252F%252Fautenticaint.vivo.com.br%252Fms_oauth%252Foauth2%252Fui%252Fvivooauthservice%252Fshowconsent%253Fresponse_type%253Dcode%2526client_id%253D568711efc0a45cb72ffcba43ccf73e69%2526redirect_uri%253Dhttps%25253A%25252F%25252Fvivoit.service-now.com%25252F%2526scope%253DServiceAccount.Profile%2526state%253DSNC7d9a541aea05a2334da1d19a2cbd0a95%2526oracle_client_name%253DSERVICENOW_TI
+
+
 [ESTOQUE - GESTÃO DE ATIVOS]
 Segue os dados do material separado para expedição:
 
